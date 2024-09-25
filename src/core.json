@@ -261,7 +261,7 @@
         "name": "Robert De Groot",
         "caption": "Partnership & Volunteers",
 
-        "imageUrl": "https://data.web3privacy.info/img/people/coinmandeer.png"
+        "imageUrl": "/core-contributors/robert.png"
       },
       {
         "id": "cat",
@@ -281,7 +281,7 @@
         "name": "MF",
         "caption": "master of caffeine",
 
-        "imageUrl": "/core-contributors/mf.png"
+        "imageUrl": "/core-contributors/michael.png"
       }
     ]
   },
